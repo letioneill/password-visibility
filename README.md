@@ -4,10 +4,10 @@ Toggle visibility of password fields in forms
 [Vanilla JS Academy](https://vanillajsacademy.com/) (Fall 2019): Project 1 
 
 ### Part 1
-01. Toggle password visibility [Demo](https://letioneill.github.io/VJSAcademy-Fall2019/01_password-visibility/01-toggle-password-visibility.html)
+Toggle password visibility for one field [Demo](https://letioneill.github.io/password-visiblity/01-toggle-password-visibility.html)
 
 ### Part 2
-02. Toggling multiple password fields [Demo](https://letioneill.github.io/VJSAcademy-Fall2019/01_password-visibility/02-password-visibility-multiple-fields.html)
+Toggling multiple password fields [Demo](https://letioneill.github.io/password-visiblity/02-password-visibility-multiple-fields.html)
 
 ### Part 3
-03. Password visibility on multiple forms [Demo](https://letioneill.github.io/VJSAcademy-Fall2019/01_password-visibility/03-password-visibility-multiple-forms.html)
+Toggle password visibility on multiple forms [Demo](https://letioneill.github.io/password-visiblity/03-password-visibility-multiple-forms.html)
