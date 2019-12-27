@@ -1,7 +1,7 @@
 # Toggle Password Visibility
 Toggle visibility of password fields in forms
 
-[Vanilla JS Academy](https://vanillajsacademy.com/) (Fall 2019): Project 1 
+**Project 1** - [Vanilla JS Academy](https://vanillajsacademy.com/) (Fall 2019):  
 
 ### Part 1
 Toggle password visibility for one field [Demo](https://letioneill.github.io/password-visibility/01-toggle-password-visibility.html)
